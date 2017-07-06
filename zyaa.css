@@ -1,0 +1,165 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-size:14px;
+}
+	ul,li{margin: 0;padding: 0;list-style: none}
+.box{
+	width:100%;
+	heigth:100%;
+	float:left;
+}
+.head{
+	
+	height:50px;
+	color:white;
+	background:black;
+}
+.ulli{
+	float:left;
+	text-align:center;
+	line-height:50px;
+	padding-left:3%;
+	width:100%;
+}
+.ulli li{
+	float:left;
+	line-height:50px;
+	text-align: center;
+	width:7%;
+	height:50px;
+	font-family: "微软雅黑";
+	font-size:16px;
+	
+}
+.ulli li>a{
+	text-align: center;
+}
+/*头结束*/
+.ulli li:hover{
+	background: deepskyblue;
+	color:white;
+}
+.box2{
+	width:30%;
+	height:100%;
+	margin-top:20px;
+	margin-right:50px;
+	float:right;
+}
+.table{
+	width:70%;
+	min-height:300px;
+	
+}
+.list li{
+	height:40px;
+	border:1px solid gainsboro;
+	line-height:40px;
+	text-align:left;
+	font-size:14px;
+	font-family: "微软雅黑";
+	padding-left:15px;
+}
+.list li:hover{
+	background: deepskyblue;
+	color:white;
+}
+.zhong{
+	width:100%;
+	margin-top:20px;
+	margin-left:4%;
+}
+.zhong1{
+	width:60%;
+	height:300px;
+	background:#DDD;
+}
+.h11{
+	padding-top:40px;
+	padding-left:60px;
+}
+.p11{
+	padding-top:20px;
+	padding-left:60px;
+} /*中结束*/
+.mainzong{
+	width:70%;
+	margin-top:20px;
+	margin-left:4%;
+}
+.mainzong h2{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.main1{
+	width:23%;
+	height:280px;
+	float:left;
+	padding-left:20px;
+}
+.main2{
+	width:23%;
+	height:280px;
+	float:left;
+	padding-left:30px;
+	
+}
+.main3{
+	width:23%;
+	height:280px;
+	float:left;
+	padding-left:30px;
+
+}
+.anniu{
+	width:150px;
+	height:30px;
+	border:1px solid black;
+	border-radius:5%;
+	text-align:center;
+	line-height:30px;
+	margin-top:10px;
+	
+}/*内容上结束*/
+.mainzongboo{
+	width:70%;
+	margin-top:20px;
+	margin-left:4%;
+}
+.mainzongboo h2{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.mainboo1{
+	width:23%;
+	height:100px;
+	float:left;
+	padding-left:20px;
+}
+.mainboo2{
+	width:23%;
+	height:100px;
+	float:left;
+	padding-left:30px;
+	
+}
+.mainboo3{
+	width:23%;
+	height:100px;
+	float:left;
+	padding-left:30px;
+
+}
+.anniu{
+	width:150px;
+	height:30px;
+	border:1px solid black;
+	border-radius:5%;
+	text-align:center;
+	line-height:30px;
+	margin-top:10px;
+	
+}/*内容上结束*/
